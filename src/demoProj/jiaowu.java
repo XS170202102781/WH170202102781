@@ -5,4 +5,3 @@ public class jiaowu {
 		System.out.println("good!");
 	}
 }
-
